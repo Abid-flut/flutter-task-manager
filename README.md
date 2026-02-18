@@ -165,7 +165,7 @@ lib/
 ![Login Screen](screenshots/login.jpg)
 
 ### Task List
-![Task List](screenshots/tasks.jpg)
+![Task List](screenshots/Tasks.jpg)
 
 ### Add Task
 ![Add Task](screenshots/add-task.jpg)
