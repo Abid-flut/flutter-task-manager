@@ -158,3 +158,18 @@ lib/
 
 \- flutter\_secure\_storage
 
+
+## Application Screenshots
+
+### Login Screen
+![Login Screen](screenshots/login.jpg)
+
+### Task List
+![Task List](screenshots/tasks.jpg)
+
+### Add Task
+![Add Task](screenshots/add-task.jpg)
+
+### Filter Completed Tasks
+![Filter Completed](screenshots/filter-completed.jpg)
+
