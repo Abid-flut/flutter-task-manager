@@ -1,8 +1,9 @@
 \# Flutter Task Manager
 
+The objective of this project was to simulate real-world mobile application patterns including authentication lifecycle management, secure persistence, and scalable state architecture.
 
+Production-style Flutter application demonstrating authentication handling, secure token persistence, REST API integration, and layered architecture using Provider.
 
-A Flutter-based task management application demonstrating authentication flow, secure token storage, REST API integration, and structured state management using Provider.
 
 
 
@@ -146,17 +147,21 @@ lib/
 
 
 
-\## Tech Stack
+## Tech Stack
 
+- Flutter (UI Framework)
+- Dart (Programming Language)
+- Provider (State Management)
+- HTTP (API Communication)
+- flutter_secure_storage (Secure Token Storage)
+- DummyJSON API (Authentication & Task Data)
 
+## Setup Instructions
 
-\- Flutter
-
-\- Provider
-
-\- REST API
-
-\- flutter\_secure\_storage
+1. Clone the repository
+2. Run `flutter pub get`
+3. Ensure internet connection (uses dummyjson.com API)
+4. Run `flutter run`
 
 
 ## Application Screenshots
